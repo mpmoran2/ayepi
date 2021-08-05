@@ -1,0 +1,4 @@
+-Serialize for models
+-create another endpoint
+-connect to the Google Sheets so that can fetch the data from it
+-submit to Clay
